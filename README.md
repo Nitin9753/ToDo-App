@@ -1,7 +1,7 @@
 # ToDo Flutter App
 This project helps one to keep track of their time and help them manage their daily task so that one can learn to manage his/her time efficiently.
-![image](https://user-images.githubusercontent.com/93181605/220658101-cb877164-a534-4bc6-a841-1dab4eeb1b37.png)
 
+<img src="https://user-images.githubusercontent.com/93181605/220658101-cb877164-a534-4bc6-a841-1dab4eeb1b37.png" data-canonical-src="https://user-images.githubusercontent.com/93181605/220658101-cb877164-a534-4bc6-a841-1dab4eeb1b37.png" width="200" height="400" />
 
 A new Flutter project.
 
